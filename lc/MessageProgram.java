@@ -152,5 +152,7 @@ public class MessageProgram {
 //		mdcollector.setMetadataCollector(fetchMetadata, exportMetadata);
 //		mdcollector.collectMetadata();
 //		mdcollector.print();
+
+		// hello world
 	}
 }
